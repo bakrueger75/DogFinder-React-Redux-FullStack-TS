@@ -1,0 +1,13 @@
+{
+  "basePath": "dogfinder",
+  "port": "3000",
+  "apis": {
+    "allBreeds": "https://dog.ceo/api/breeds/list/all",
+    "breedList": "https://dog.ceo/api/breeds/list",
+    "dogImage": "https://dog.ceo/api/breed/<BREED>/images/random",
+    "dogDetails": "https://en.wikipedia.org/w/api.php?format=json&origin=*&action=query&list=search&srlimit=1&srsearch=",
+    "dogDetailsExtract": "https://en.wikipedia.org/w/api.php?format=json&origin=*&action=query&prop=extracts&exintro&redirects=1&pageids="
+  },
+  "apiCacheTime": "1 hour",
+  "imageApiCacheTime": "5 minutes"
+}

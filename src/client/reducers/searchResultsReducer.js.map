@@ -1,0 +1,1 @@
+{"version":3,"file":"searchResultsReducer.js","sourceRoot":"","sources":["searchResultsReducer.ts"],"names":[],"mappings":";;AAAA,gDAAgD;AAChD,iDAA0C;AAE1C,SAAwB,oBAAoB,CAAC,KAAK,GAAG,sBAAY,CAAC,aAAa,EAAE,MAAM;IACrF,QAAO,MAAM,CAAC,IAAI,EAAE;QAClB,KAAK,KAAK,CAAC,cAAc;YACvB,OAAO,MAAM,CAAC,aAAa,CAAC;QAC9B;YACE,OAAO,KAAK,CAAC;KAChB;AACH,CAAC;AAPD,uCAOC"}
